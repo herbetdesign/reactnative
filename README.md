@@ -6,4 +6,4 @@ Este é um app simples gerador de senhas onde há a função de gerar senhas ale
 
 ![App Screen](https://raw.githubusercontent.com/herbetdesign/reactnative/main/assets/tela%20celular.jpg)
 
-![Download (.rar)](https://github.com/herbetdesign/reactnative/raw/main/gerador_de_senhas.rar)
+[Download (.rar)](https://github.com/herbetdesign/reactnative/raw/main/gerador_de_senhas.rar)
